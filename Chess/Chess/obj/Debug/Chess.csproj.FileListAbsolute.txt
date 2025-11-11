@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\user\source\repos\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\user\source\repos\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\user\source\repos\Chess\Chess\bin\Debug\Control.Draggable.dll
+C:\Users\user\source\repos\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\bin\Debug\Control.Draggable.dll
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\Chess\Chess\obj\Debug\Chess.pdb
