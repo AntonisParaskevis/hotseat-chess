@@ -7,7 +7,7 @@ A hotseat chess game for 2 players.
 • .NET Framework 4.7.2 or newer
 
 # Download
-Click the Code button, then click on "Download ZIP"
+Click the Code button, then click on "Download ZIP".
 
 # Execution
 Run Chess.exe, located in Chess\Chess\bin\Debug
